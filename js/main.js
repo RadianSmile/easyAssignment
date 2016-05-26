@@ -1,3 +1,5 @@
+// Radian
+
 var config = {
     apiKey: "AIzaSyCCrSYqIkpobs3hP92l6P3U2pScfY2V4v4",
     authDomain: "easyauction.firebaseapp.com",
